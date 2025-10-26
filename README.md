@@ -1,2 +1,2 @@
 # SSEnemyHPBar
-A port from Hollow Knight
+A port from Hollow Knight EnemyHPBar mod
